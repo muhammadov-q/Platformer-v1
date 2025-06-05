@@ -1,7 +1,7 @@
 <h1 align="center">Platformer Game v1.0 – Raylib C++ Edition</h1>
 
 <p align="center">
-  <img src="data/screenshots/gameplay.png" width="640" alt="Gameplay Screenshot" />
+  <img src="data/screenshots/main.png" width="640" alt="Gameplay Screenshot" />
 </p>
 
 <p align="center">
