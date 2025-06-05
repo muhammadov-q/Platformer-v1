@@ -121,8 +121,8 @@ Reaching the exit at the end of **Level 3** triggers the ending screen.
 ### 🔨 Building
 
 ```bash
-git clone https://github.com/your-username/simple-platformer-project.git
-cd simple-platformer-project
+git clone https://github.com/muhammadov-q/Platformer-v1.git
+cd Platformer-v1
 cmake -B build -S . -DCMAKE_TOOLCHAIN_FILE=/path/to/vcpkg/scripts/buildsystems/vcpkg.cmake
 cmake --build build
 ./build/platformer
